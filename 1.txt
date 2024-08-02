@@ -2,3 +2,5 @@
 2.signup
 3.products
 4.prizes
+5.sales
+6.logout
